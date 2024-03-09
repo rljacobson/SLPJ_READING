@@ -2,7 +2,7 @@
 
 https://ethos.bl.uk/
 
-## CH1 
+## CH1
 
 Darlington, J. 1984. Functional programming. In Distributed Computing. Duce (Editor). Academic Press. --TODO SCAN
 
@@ -35,12 +35,6 @@ Watson, P., Watson, I., and Woods, V. 1986. A Model of Computation for the Paral
 ## CH12
 
 [Mago, G.A. 1980. A cellular computer architecture for functional programming. IEEE Computer Society COMPCON,pp.179-87.](10.1109/TC.1980.1675646)
-
-Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
-
-## CH15
-
-Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
 
 ## CH16
 
@@ -88,10 +82,3 @@ Cripps, M.D., and Field, A.J. 1983, An Asynchronous Structure-independent Switch
 Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Research in Progress, Dept Comp.Sci., Yale University. November.
 
 Tighe, S. 1985. A Study of the Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
-
-##
-
-Regarding "Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus. PhD thesis, Oxford."
-https://solo.bodleian.ox.ac.uk/permalink/f/n28kah/oxfaleph015127760
-https://solo.bodleian.ox.ac.uk/permalink/f/n28kah/oxfaleph020593222
-https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.476186

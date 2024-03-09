@@ -1,7 +1,7 @@
 # [THE IMPLEMENTATION OF FUNCTIONAL PROGRAMMING LANGUAGES - Simon L. Peyton Jones](slpj-book-1987.pdf)
 
 158 References Completed
-[27 Missing References.](MISSING_REFERENCES.md)
+[25 Missing References.](MISSING_REFERENCES.md)
 3 PENDING SCANNING.
 
 ## CH1. Introduction
@@ -210,7 +210,7 @@ Watson, P., Watson, I., and Woods, V. 1986. A Model of Computation for the Paral
 
 Mago, G.A. 1980. A cellular computer architecture for functional programming. IEEE Computer Society COMPCON,pp.179-87.
 
-Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
+[Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.](Wadsworth71_SemanticsPragmatics.pdf)
 
 ## CH13
 
@@ -258,7 +258,7 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 
 [Hughes, R.J.M. 1984. The design and implementation of programming languages. PhD thesis, PRG-40. Programming Research Group, Oxford. September.](Hughes84_TheDesignAndImplementationOfProgrammingLanguages.pdf)
 
-Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
+[Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.](Wadsworth71_SemanticsPragmatics.pdf)
 
 ## CH16
 

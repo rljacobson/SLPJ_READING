@@ -1,7 +1,7 @@
 # [THE IMPLEMENTATION OF FUNCTIONAL PROGRAMMING LANGUAGES - Simon L. Peyton Jones](slpj-book-1987.pdf)
 
 158 References Completed
-[26 Missing References.](MISSING_REFERENCES.md)
+[25 Missing References.](MISSING_REFERENCES.md)
 3 PENDING SCANNING.
 
 ## CH1. Introduction
@@ -160,8 +160,6 @@ Huet, G., and Levy, J.J. 1979. Computations in Non-ambiguous Linear Term Rewriti
 
 ## CH9
 
-[Damas-Hindley-Milner](http://dev.stephendiehl.com/fun/006_hindley_milner.html)
-
 ### CH9 References
 
 [Damas,L. 1985.Type Assignment in Programming Languages. CST-33-35. Department of Computer Science, University of Edinburgh. April.](Damas84_TypeAssignmentInProgrammingLanguages.pdf)
@@ -212,7 +210,7 @@ Watson, P., Watson, I., and Woods, V. 1986. A Model of Computation for the Paral
 
 Mago, G.A. 1980. A cellular computer architecture for functional programming. IEEE Computer Society COMPCON,pp.179-87.
 
-Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
+[Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.](Wadsworth71_SemanticsPragmatics.pdf)
 
 ## CH13
 
@@ -236,6 +234,8 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 
 [Keller, R.M. 1985. Distributed graph reduction from first principles. Department of Computer Science, University of Utah.' Klop, J.W.1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.](Keller85_DistributedComputationByGraphReduction.pdf)
 
+[Klop, J.W. 1980. Combinatory reduction systems. PhD thesis, Mathematisch Centrum, Amsterdam.](Klop80_CombinatorReductionSystems.pdf)
+
 [Landin, P.J. 1964. The mechanical evaluation of expressions. Computer Journal. Vol. 6, pp. 308-20.](Landin64.pdf)
 
 [O’Donnell, M.J. 1977. Computing in Systems Described by Equations. LNCS 58, Springer Verlag.](ODonnell77_ComputingInSystesmDescribedByEquations.djvu)
@@ -258,7 +258,7 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 
 [Hughes, R.J.M. 1984. The design and implementation of programming languages. PhD thesis, PRG-40. Programming Research Group, Oxford. September.](Hughes84_TheDesignAndImplementationOfProgrammingLanguages.pdf)
 
-Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.
+[Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4. PhD thesis, Oxford.](Wadsworth71_SemanticsPragmatics.pdf)
 
 ## CH16
 
@@ -267,6 +267,8 @@ Wadsworth, C.P. 1971. Semantics and pragmatics of the lambda calculus, Chapter4.
 [Burton, F.W. 1982. A linear space translation of functional programs to Turner combinators. /nformation Processing Letters. Vol. 14, no. 5, pp. 202-4.](burton82_ALinearSpaceTranslationOfFunctionalProgramsToTurnerCOmbinators.pdf)
 
 [Curry, H.B., and Feys, R. 1958. Combinatory Logic, Vol. 1. North-Holland. Hughes, R.J.M. 1984. The design and implementation of programming languages. PhD thesis, PRG-40. Programming Research Group, Oxford.](Curry58_CombinatoryLogic.djvu)
+
+[Hughes, R.J.M. 1984. The design and implementation of programming languages. PhD thesis, PRG-40. Programming Research Group, Oxford.](Hughes84_TheDesignAndImplementationOfProgrammingLanguages.pdf)
 
 [Joy, M.S., Rayward-Smith, V.J., and Burton, F.W. 1985. Efficient combinator code. Computer Languages. Vol. 10, no. 3/4, pp. 211-24.](joy85_EfficientCombinatorCode.pdf)
 
@@ -348,7 +350,7 @@ Elworthy, D. 1985. Implementing a Ponder cross compiler for the SKIM processor. 
 
 [Fairbairn, J. 1982. Ponder and its type system. Technical Report 31. Computer Lab., Cambridge. November.](Fairbairn82_PonderAndItsTypeSystem.pdf)
 
-[Fairbairn,J. 1985. Design and implementationofa simple typed language based on the lambda calculus. Technical Report 75. Computer Lab., Cambridge. May.](Fairbairn85DesignAndImplementationOfASimpleTypedLanguageBasedOnTheLambdaCalculus.pdf)
+[Fairbairn,J. 1985. Design and implementation of a simple typed language based on the lambda calculus. Technical Report 75. Computer Lab., Cambridge. May.](Fairbairn85DesignAndImplementationOfASimpleTypedLanguageBasedOnTheLambdaCalculus.pdf)
 
 [Fairbairn, J., and Wray, S.C. 1986. Code generation techniques for functional languages. In Proceedings of the ACM Conference on Lisp and Functional Programming, Boston, pp. 94-104, August.](fairbairn86_CodeGenerationTechniquesForFunctionalLanguages.pdf)
 
@@ -373,6 +375,8 @@ Lester, D. 1985. The correctness of a G-machine compiler. MSc dissertation, Prog
 ### CH19 References
 
 Aho, A.V., and Ullman, J.D. 1977. Principles of Compiler Design. Addison Wesley. Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag. --TODO SCAN BOOK
+
+[Bauer, F.L., and Eickel, J. 1976. Compiler Construction. Springer Verlag.](Bauer1976_CompilerConstruction.djvu)
 
 [Landin, P.J. 1964. The mechanical evaluation of expressions. ComputerJournal. Vol. 6, pp. 308-20.](Landin64_TheMechanicalEvaluationOfExpressions.pdf)
 
@@ -466,6 +470,8 @@ Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Resear
 
 [Hudak, P., and Smith, L. 1985. Para-functional Programming — a Paradigm for Programming MultiprocessorSystems. YALEU/DCS/RR-390. Dept Comp.Sci., Yale University. June. Intel 1985. iPSC User’s Guide. Intel Corporation, Order Number 175455-003. October.](hudak86_ParaFunctionalPrograming.pdf)
 
+Intel 1985. iPSC User's Guide. Intel Corporation, Order Number 175455-003. October.
+
 [Keller, R.M. 1985. Rediflow Architecture Prospectus, UUCS-85-105. Dept Comp. Sci., University of Utah. August.](Keller85_Rediflow_architecture_prospectus.pdf)
 
 [Keller, R.M., and Lin, F.C.H. 1984. Simulated performance of a reduction based multiprocessor. IEEE Computer. Vol. 17, no. 7, pp. 70-82.](Keller84_SimulatedPerformanceOfAReductionBasedMultiprocessingSystem.pdf)
@@ -478,7 +484,7 @@ Hudak,P, 1985. Functional Programming on Multiprocessor Architectures — Resear
 
 [Smith, A.J. 1982. Cache memories. ACM Computing Surveys. Vol. 14, no. 3, pp.473-530.](smith82_CacheMemories.pdf)
 
-Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
+Tighe, S. 1985. A Study of the Parallelism Inherent in Combinator Reduction. Parallel processing program, MCC, Austin, Texas. August.
 
 ## Appendix
 
@@ -490,7 +496,7 @@ Tighe, S. 1985. A Study ofthe Parallelism Inherent in Combinator Reduction. Para
 
 [Milner, A.J. 1978. A theory of type polymorphism in programming. Journal of Computer and System Sciences. Vol. 17.](Milner78_ATheoryOfTypePolymorphismInProgramming.pdf)
 
-Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.
+[Richards, H. 1984. An overview of ARC SASL. SIGPLAN Notices. October.](richards84_AnOverviewOfArcSASL.pdf)
 
 [Thompson, S.J. 1986. Laws in Miranda. Proceedings of the 4th ACM International Conference on LISPand Functional Programming, Boston, Mass. August.](thompson86_LawsInMiranda.pdf)
 
